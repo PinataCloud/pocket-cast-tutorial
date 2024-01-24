@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Pocket Cast Tutorial
+This is a final repo for [this tutorial]() on how to build an app that mints casts from [Farcaster](https://farcaster.xyz) as NFTs on Base, using [Val.town](https://val.town), [Crossmint](https://crossmint.com), and [Pinata](https://pinata.cloud). 
+
+Be sure to follow the blog post and setup the following env in an `.env.local` file! 
+
+```
+VALTOWN_API_KEY=YOUR_VAL_TOWN_KEY
+```
 
 ## Getting Started
 
